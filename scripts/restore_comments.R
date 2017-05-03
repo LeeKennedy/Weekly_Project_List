@@ -11,15 +11,29 @@ library(xlsx)
 
 # Data Input -------------------------------------------------------------
 
+
+if("Windows" %in% Sys.info()['sysname'] == TRUE){ 
+        setwd() 
+} else { 
+        setwd("~/Documents/GitHub/Weekly_Project_List/output")
+}
+
 file.remove("Weekly_Old.xlsx")
 file.copy("Weekly.xlsx", "Weekly_Old.xlsx")
 file.remove("Weekly.xlsx")
 
-new_list <- loadWorkbook("~/Desktop/Project List/Weekly_List_Template.xlsx")
+if("Windows" %in% Sys.info()['sysname'] == TRUE){ 
+        new_list <- loadWorkbook("~/Documents/GitHub/Weekly_Project_List/data/Weekly_List_Template.xlsx")
+        new_input <- read.csv("~/Desktop/Project List/project_list.csv")
+        old_list <- read_excel("~/Desktop/Project List/Weekly_Old.xlsx") 
+} else { 
+        new_list <- loadWorkbook("~/Documents/GitHub/Weekly_Project_List/data/Weekly_List_Template.xlsx")
+        new_input <- read.csv("~/Documents/GitHub/Weekly_Project_List/output/project_list.csv")
+        old_list <- read_excel("~/Documents/GitHub/Weekly_Project_List/output/Weekly_Old.xlsx")
+}
 
-new_input <- read.csv("~/Desktop/Project List/project_list.csv")
 
-old_list <- read_excel("~/Desktop/Project List/Weekly_Old.xlsx")
+
 
 old_list <- old_list[,c(3,4)]
 
@@ -43,7 +57,7 @@ addDataFrame(new_1, sheet = new_s$List, row.names = FALSE, col.names = FALSE, st
 # write data to sheet starting on line 1, column 4
 saveWorkbook(new_list, "Weekly.xlsx")
 
-temp_list <- read_excel("~/Desktop/Project List/Weekly.xlsx")
+temp_list <- read_excel("~/Documents/GitHub/Weekly_Project_List/output/Weekly.xlsx")
 
 temp_list <- temp_list[,c(2:4)]
 temp_list[is.na(temp_list)] <- ""

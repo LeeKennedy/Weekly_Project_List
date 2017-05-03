@@ -10,8 +10,11 @@ library(stringr)
 
 # Data Input -------------------------------------------------------------
 
-lk_proj <- read_csv("~/Desktop/Project List/LK_Projects_full.csv")
-#lk_proj <- read_csv("C:/Users/leekennedy/Desktop/Project List May 2017/LK_Projects_full.csv")
+if("Windows" %in% Sys.info()['sysname'] == TRUE){ 
+        lk_proj <- read_csv("C:/Users/leekennedy/Desktop/Project List May 2017/LK_Projects_full.csv") 
+} else { 
+        lk_proj <- read_csv("~/Desktop/Project List/LK_Projects_full.csv")
+}
 
 
 # Data Cleaning ----------------------------------------------------------
