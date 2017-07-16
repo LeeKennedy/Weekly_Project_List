@@ -1,0 +1,95 @@
+key,Area,Project,Comment,GB,Project_No,CC,NM,EM,Story,Closed
+1,Doing,GB Status report for Robbie,,,,,,,,
+1,Doing,Vitamin B3 for GB,,GB,235,,17014,,,
+1,Doing,Vitamin B3 Standard Stability,,,,,,,,
+2,With Lab,Aflatoxin B&G - seeds - Protocol,,,,,,,,
+2,With Lab,ASE Trial Extractions,,,,144,,,,
+2,With Lab,Cholesterol via GC/MS,,,210,,17005,,,
+2,With Lab,Explore NIST Proficiency LI152,,,,,,,,
+2,With Lab,Iodine by GB Method,,GB,236,,17015,,,
+2,With Lab,Nucleotide retention time shift,,,,,,,,
+2,With Lab,RMDX using Ankom,,,,,,,,
+2,With Lab,TKN in Water By HACH,,,202,,,,,
+2,With Lab,Validate CAPS01,,,204,,,,,
+2,With Lab,Vitamin A&E for GB,,GB,225,,17011,,,
+2,With Lab,Vitamin C - Method Set Up,,GB,222,,17008,,,
+3,With Quality,Anisidine Investigation,,,,,,,,
+3,With Quality,CARN01 Validation Report,,GB,230,,,17077,,
+3,With Quality,MICP02 convert ICPM06,,,216,,,,,
+3,With Quality,Modify WALD01 & WSUG01 for general use.,,,,,,,,
+3,With Quality,NATA Accreditation FATS17,,,,,,,,
+3,With Quality,PVAL and Light Effects,,,203,,,,,
+3,With Quality,Validation Report - Vitamin B5,,,239,,,17150,,
+3,With Quality,Validation Report - Vitamin B7,,,240,,,17151,,
+3,With Quality,Vitamin B12 Validation Report,,,,,,,,
+3,With Quality,WHPN Consolidation,,,,,,,,
+4,With IT,Aflatoxin M1 - LOR change,,,,,,,,
+4,With IT,Anhydrous Lactose reporting,,,,,,,470,
+4,With IT,B Group move to UPLC,,,137,,,,,
+4,With IT,CODEX Variation to PROT01,,,,,,,023,
+4,With IT,Create VB1203 Method for Free Vitamin B12,,GB,237,,17019,,,
+4,With IT,Energy Calculation inc acetic acid,,,,,,,255,
+4,With IT,Establish LOR for VITC07,,,,,,,,
+4,With IT,Lactoferrin method (TMI),,GB,217,,17004,,265,
+4,With IT,MG Reporting Trans Fats as %TFA,,GB,,,,,469,
+4,With IT,Moisture Consolidation,,,197,,,,,
+4,With IT,New element in VITB01 for Riboflavin only,,,,,,,353,
+4,With IT,Taurine - New method,,GB,226,,17012,,,
+4,With IT,Variation to LACA01 (Sod Lactate m/v),,,,,,,368,
+4,With IT,Vitamin B1 - Validation report,,GB,223,,17009,,,
+4,With IT,Vitamin B2 - Validation report,,GB,234,,17012,,,
+4,With IT,Vitamin B6 - Method Set Up (Valid. Report),,GB,224,,17010,,,
+6,To Do,ASE Validation for Goat IF,,,,,,,,
+6,To Do,Burra MU table,,,,,,,,
+6,To Do,FAME Consolidation,,,,149,,,,
+6,To Do,Finish of Neil's Vitamin D Report,,,,,,,,
+6,To Do,FLOD Consolidation,,,214,154,,,,
+6,To Do,Glycerol Bath/Hotblock,,,218,,,,,
+6,To Do,Increase scope on PEST08/09,,,,,,,,
+6,To Do,LK - Dietary Fibre LOR,,,,,,,,
+6,To Do,LK - Histamine Method Review,,,,,,,,
+6,To Do,LK - MU Technical Note,,,,,,,,
+6,To Do,LK - Validation Report Template,,,,,,,,
+6,To Do,Review FOS & GOS (Dionex),,,,,,,,
+6,To Do,THEO02 - remove Spike?,,,,,,,,
+6,To Do,Validate & Accredit A2 Milk Method,,,,,,,,
+6,To Do,Vitamin B6 Standard Stability,,,,,,,,
+7,Done,Acid digest fat on dairy powder,,,,,,,,10/07/2017
+7,Done,ANOX Consolidation,,,155,137,,,,10/07/2017
+7,Done,ASHS02 - GB alterations,,GB,,,,,,10/07/2017
+7,Done,Assess precision of ETOH02 for spirits.,,,,,,,,10/07/2017
+7,Done,Assist Sam with WHPN02 calcs.,,,,,,,,10/07/2017
+7,Done,Audit GB methods for duplicates,,GB,,,,,,10/07/2017
+7,Done,Autotitrator CC to complete,,,,,,,,10/07/2017
+7,Done,Available CHO,,,198,,,,101,10/07/2017
+7,Done,Bromide in Mercury Method,,GB,,,,,,10/07/2017
+7,Done,CHLN01 Validation Report,,GB,229,,,17078,,10/07/2017
+7,Done,Coca Cola OJ & 'pectin',,,,,,,,10/07/2017
+7,Done,FAME Rounding,,,,,,,293,10/07/2017
+7,Done,FAME01 - Trialling KOH - Report,,GB,,,,,,10/07/2017
+7,Done,FAME02 MU Calculations,,,,,,,,10/07/2017
+7,Done,Farmland MUs,,,,,,,,10/07/2017
+7,Done,IGGS01 Investigation,,,,,,,,10/07/2017
+7,Done,Len's Milk Complaint Sample,,,,,,,,10/07/2017
+7,Done,LK - Add AOAC 991.43 to DF references,,,,,,,,10/07/2017
+7,Done,LK - Ash to Metals ratio,,,,,,,,10/07/2017
+7,Done,LK - Check FATS01 trending,,,,,,,,10/07/2017
+7,Done,"LK - MU Calcs - MOIS13, FATS17, LACA01, LACA02",,,,,,,,10/07/2017
+7,Done,May Monthly report to Jirong,,,,,,,,10/07/2017
+7,Done,MG GB File - update to per 100g,,,,,,,,10/07/2017
+7,Done,MU Discussion Paper for MG,,,,,,,,10/07/2017
+7,Done,Nominate C6 Preferred List,,,212,,,,,10/07/2017
+7,Done,Nucleotides - AQ transfer,,,,,,,,10/07/2017
+7,Done,Pizza Complaint,,,,,,,,10/07/2017
+7,Done,Protein by Difference for MG,,,,,,,023,10/07/2017
+7,Done,Protocols for GB Validations,,,,,,,,10/07/2017
+7,Done,Review GB 'Identicals',,,,,,,,10/07/2017
+7,Done,SUGA03 - GB sample prep,,GB,,,,,,10/07/2017
+7,Done,SUGA03 to inc GB extraction,,,,,,,,10/07/2017
+7,Done,SUGA09 - Low Lactose,,,213,,,,,10/07/2017
+7,Done,TITA14 Nested testing - Wendy,,,,,,,,10/07/2017
+7,Done,TITA14 Validation Report,,GB,228,,,,,10/07/2017
+7,Done,VIK101 - NATA Validation,,GB,231,,,,,10/07/2017
+7,Done,Vitamin B12 - CN extraction - base levels,,GB,,,,,,10/07/2017
+7,Done,Water Activity - linearity check,,,,,,,,10/07/2017
+7,Done,Write explanation of FAME LOR decision,,,,,,,,10/07/2017
